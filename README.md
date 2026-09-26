@@ -98,7 +98,3 @@ python -m unittest test_autoclicker_core.py
 ```
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE). Desenvolvido para facilitar a automação de downloads de modpacks no Windows PC.
