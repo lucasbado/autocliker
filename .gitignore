@@ -1,0 +1,30 @@
+# Android & Gradle (Desativados - Versão PC Apenas)
+.gradle/
+app/
+.idea/
+local.properties
+*.iml
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Python & Build Temp
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+*.spec
+venv/
+.venv/
+env/
+ENV/
+
+# Configurações Locais
+config.json
+.artifacts/
+.DS_Store
+*.log
